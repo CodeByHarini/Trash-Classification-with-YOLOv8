@@ -17,6 +17,14 @@ Classifying waste manually is time-consuming and error-prone. This project provi
 * **Pretrained weights** (`best.pt`) for direct inference.
 * A **Gradio web app** for interactive predictions.
 
+📊 Dataset
+
+This project is trained on the Garbage Classification Dataset from Kaggle:
+
+🔗 [Garbage Classification Dataset – Kaggle](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification)
+
+The dataset contains images of various waste categories (plastic, metal, paper, glass, etc.) which are used to train YOLOv8 for accurate classification.  
+
 
 ## 📂 Folder Structure
 
