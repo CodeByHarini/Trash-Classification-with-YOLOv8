@@ -45,6 +45,18 @@ trash-classification-with-yolov8/
 Try the model on Hugging Face Spaces:
 🔗 [Trash Classification YOLOv8 (Demo)](https://huggingface.co/spaces/CodeByHarini/garbage-classification-yolov8)
 
+## 📸 Demo Screenshot / Video
+
+### Screenshot
+
+![Chatbot Screenshot](https://github.com/CodeByHarini/Harini-Portfolio-chatbot/blob/main/Sample%20Output.jpg)
+
+### Video
+
+[![Watch Video](assets/chatbot_demo_thumbnail.png)](https://github.com/CodeByHarini/Harini-Portfolio-chatbot/blob/main/Demo%20Video.mp4)
+
+
+
 
 ## ⚙️ Installation (Local Testing)
 
