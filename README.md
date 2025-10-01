@@ -1,4 +1,4 @@
-# Trash Classification with YOLOv8
+# Garbage Classification with YOLOv8
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![YOLOv8](https://img.shields.io/badge/YOLO-v8-orange)
@@ -51,7 +51,7 @@ trash-classification-with-yolov8/
 ## 🎥 Live Demo
 
 Try the model on Hugging Face Spaces:
-🔗 [Trash Classification YOLOv8 (Demo)](https://huggingface.co/spaces/CodeByHarini/garbage-classification-yolov8)
+🔗 [Garbage Classification YOLOv8 (Demo)](https://huggingface.co/spaces/CodeByHarini/garbage-classification-yolov8)
 
 ## 📸 Demo Screenshot / Video
 
