@@ -57,11 +57,11 @@ Try the model on Hugging Face Spaces:
 
 ### Screenshot
 
-![Chatbot Screenshot](https://github.com/CodeByHarini/Harini-Portfolio-chatbot/blob/main/Sample%20Output.jpg)
+![Chatbot Screenshot](https://github.com/CodeByHarini/Trash-Classification-with-YOLOv8/blob/main/Trash%20Classifier_Output.jpg)
 
 ### Video
 
-[![Watch Video](assets/chatbot_demo_thumbnail.png)](https://github.com/CodeByHarini/Harini-Portfolio-chatbot/blob/main/Demo%20Video.mp4)
+[![Watch Video](assets/chatbot_demo_thumbnail.png)](https://github.com/CodeByHarini/Trash-Classification-with-YOLOv8/blob/main/Demo%20garbage%20classifier.mp4)
 
 
 
